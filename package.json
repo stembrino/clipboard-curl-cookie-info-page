@@ -1,0 +1,7 @@
+{
+  "name": "clipboard-curl-cookie-info-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "stembrino <stembrino@gmail.com>",
+  "license": "MIT"
+}
